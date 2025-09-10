@@ -120,7 +120,7 @@ These projects form the foundation for my AI journey, preparing me for when I’
 
 ---
 ## ✨ Connect With Me
-I’m sharing my journey publicly on my [LinkedIn page](linkedin.com/in/ama-baduwa-baidoo-567059253)  to track learning, stay accountable, and inspire others.
+I’m sharing my journey publicly on my [LinkedIn page](https://www.linkedin.com/in/ama-baduwa-baidoo/?originalSubdomain=gh)  to track learning, stay accountable, and inspire others.
 Follow my roadmap to watch the journey unfold from Python basics → AI engineering!
 
  💡 Inspired by [Codebasics's AI Engineering Roadmap](https://github.com/codebasics) 
