@@ -101,7 +101,7 @@ It shows how Python can be **fun and interactive**, while reinforcing the basics
 
 3. Run the Python script: 
    ```bash
-   python main.py
+   python Expense_Tracker.py
 
 Repeat for the other projects by entering their respective folders.
 
